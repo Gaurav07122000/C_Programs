@@ -3,7 +3,6 @@
 int main ()
 {
 int num;
-float sqr,temp;
 printf("enter the number\n");
 scanf("%d",&num);
 if(num<0)
